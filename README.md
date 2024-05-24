@@ -4,6 +4,7 @@ Hardware design for ESP8266 Smartwatch
 - [3D Design](#3d-design)
 - [PCB Design](#pcb-design)
 - [Hardware Features](#hardware-features)
+- [Planned Features](#planned-features)
 ## 3D Design
 ![Front](https://github.com/useraid/EWatch/assets/93074700/39227644-03a2-48b1-90d9-7775ff2db41c)
 ![Back](https://github.com/useraid/EWatch/assets/93074700/e951af8e-a538-41bc-8e92-9cc1c94de73e)
@@ -25,4 +26,9 @@ Hardware design for ESP8266 Smartwatch
 - Battery Potential Voltage Dividers
 - Integrated Temperature Sensor (DS3231 Builtin)
 - Hard Battery Cutoff slide switch
+- Scorable strap loops to ease fitting into a 3D print case
 - Cool Cat on Back :)
+
+## Planned Features
+- 3D Printed shell
+- 3D Printed Bands
