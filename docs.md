@@ -1,6 +1,13 @@
 # Documentation
 This is the hardware design documentation for EWatch.
 
+## Contents
+- [Voltage Regulator](#voltage-regulator)
+- [ESP12F](#esp12f)
+- [Screen](#screen)
+- [Buzzer/Vibration](#buzzer--vibration)
+- [Future Iterations](#future-iterations)
+
 ## Voltage Regulator
 The Project was designed with SPX3819 3.3V Regulator that usually comes in SOT-23 Package.
 Since this regulator has a higher voltage drop, it is pin compatible with few other voltage regulator footprint.
