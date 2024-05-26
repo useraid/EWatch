@@ -7,6 +7,7 @@ This is the hardware design documentation for EWatch.
 - [Screen](#screen)
 - [Buzzer/Vibration](#buzzer--vibration)
 - [Future Iterations](#future-iterations)
+- [Contribution](#contribution)
 
 ## Voltage Regulator
 The Project was designed with SPX3819 3.3V Regulator that usually comes in SOT-23 Package.
@@ -44,3 +45,6 @@ When activated the MOSFET pulls the connected Buzzer / Vibration motor negative 
 - Breakout to I2C or a few GPIO pins
   
 *Note* - These iterations are for the ESP8266 EWatch, I am working on a EWatchPro based on ESP32 which is built with these in mind beforehand.
+
+## Contribution
+If you want to contribute, you can help out by find more ICs that are compatible with current footprints and create an Issue so that i can go over it.
